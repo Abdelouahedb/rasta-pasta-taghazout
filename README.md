@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Rasta Pasta](https://www.rastapasta-taghazout.com/images/hero-terrace.jpg)
+![Rasta Pasta]((https://www.rastapasta-taghazout.com/images/logo-lion.jpg))
 
 **A full production restaurant website — built, deployed & live**
 
@@ -17,7 +17,7 @@
 
 ## 📌 Overview
 
-Real client project for **Rasta Pasta Fish** — a beachside seafood café & restaurant in **Taghazout, Morocco**, open since 2000.
+A client project for **Rasta Pasta Fish Taghazout** — a beachside seafood café & restaurant in **Taghazout, Morocco**, open since 2000.
 
 Built from scratch: design, development, SEO, deployment, and domain setup on production hosting.
 
@@ -164,8 +164,7 @@ npm run build
 
 <div align="center">
 
-**Built by Nour** · Morocco 🇲🇦
+**Built by DEX** · DEX, Morocco 🇲🇦
 
-*Real client · Real domain · Live in production*
 
 </div>
