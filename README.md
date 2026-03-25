@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Rasta Pasta]
+[Rasta Pasta]
 
 **A full production restaurant website — built, deployed & live**
 
