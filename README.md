@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Rasta Pasta]((https://www.rastapasta-taghazout.com/images/logo-lion.jpg))
+![Rasta Pasta]
 
 **A full production restaurant website — built, deployed & live**
 
